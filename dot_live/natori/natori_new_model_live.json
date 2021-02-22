@@ -1,0 +1,322 @@
+[
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [18116, 18163],
+    "event": {
+      "start": ["u", "down"],
+      "end": ["u", "up"]
+    },
+    "keying": false,
+    "power_of_beat": 2,
+    "condition":{
+      "coordinates":[0,0],
+      "scale": 2.2
+    }
+  },
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [18116, 18163],
+    "event": {
+      "start": ["i", "down"],
+      "end": ["i", "up"]
+    },
+    "keying": false,
+    "power_of_beat": 2,
+    "condition":{
+      "coordinates":[0,0],
+      "scale": 2.2,
+      "flip": "h"
+    }
+  }
+  ,
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [31212,31235],
+    "event": {
+      "start": ["o", "down"],
+      "end": ["o", "up"]
+    },
+    "keying": false,
+    "power_of_beat": 1,
+    "condition":{
+      "coordinates":[300,-300],
+      "scale": 4.0
+    }
+  }
+  ,
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [32272,32300],
+    "event": {
+      "start": ["j", "down"],
+      "end": ["j", "up"]
+    },
+    "keying": false,
+    "power_of_beat": 1,
+    "condition":{
+      "coordinates":[0,100],
+      "scale": 1.8
+    }
+  }
+  ,
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [32272,32300],
+    "event": {
+      "start": ["k", "down"],
+      "end": ["k", "up"]
+    },
+    "keying": false,
+    "power_of_beat": 1,
+    "condition":{
+      "coordinates":[0,0],
+      "scale": 1.8,
+      "flip": "v"
+    }
+  }
+  ,
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [11100, 11119],
+    "event": {
+      "start": ["z", "down"],
+      "end": ["z", "up"]
+    },
+    "keying": false,
+    "power_of_beat": 1,
+    "condition":{
+      "scale": 3.0
+    }
+  },
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [11100, 11119],
+    "event": {
+      "start": ["x", "down"],
+      "end": ["x", "up"]
+    },
+    "keying": false,
+    "power_of_beat": 1,
+    "condition":{
+      "scale": 4.0,
+      "flip": "h"
+    }
+  },
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [11100, 11119],
+    "event": {
+      "start": ["c", "down"],
+      "end": ["c", "up"]
+    },
+    "keying": false,
+    "power_of_beat": 1,
+    "condition":{
+      "scale": 4.0
+    }
+  }
+  ,
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [11100, 11119],
+    "event": {
+      "start": ["v", "down"],
+      "end": ["v", "up"]
+    },
+    "keying": false,
+    "power_of_beat": 1,
+    "condition":{
+      "scale": 1.5,
+      "border":"wrap"
+    }
+  }
+  ,
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [11100, 11119],
+    "event": {
+      "start": ["b", "down"],
+      "end": ["b", "up"]
+    },
+    "keying": false,
+    "power_of_beat": 1,
+    "condition":{
+      "coordinates":[480,270],
+      "scale": 0.8,
+      "border":"wrap"
+    }
+  }
+  ,
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [11100, 11119],
+    "event": {
+      "start": ["n", "down"],
+      "end": ["n", "up"]
+    },
+    "keying": false,
+    "power_of_beat": 1,
+    "condition":{
+      "scale": 0.5,
+      "border":"wrap"
+    }
+  }
+  ,
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [11100, 11119],
+    "event": {
+      "start": ["m", "down"],
+      "end": ["m", "up"]
+    },
+    "keying": false,
+    "power_of_beat": 1,
+    "condition":{
+      "coordinates":[480,270],
+      "scale": 0.3,
+      "border":"wrap"
+    }
+  },
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [11190, 11204],
+    "event": {
+      "start": ["e", "down"],
+      "end": ["e", "up"]
+    },
+    "keying": false,
+    "power_of_beat": 1,
+    "condition":{
+      "coordinates":[0,100],
+      "scale": 4.0
+    }
+  }
+  ,
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [15172, 15205],
+    "event": {
+      "start": ["r", "down"],
+      "end": ["r", "up"]
+    },
+    "keying": false,
+    "power_of_beat":1,
+    "condition":{
+      "coordinates":[0,100],
+      "scale": 2.7
+    }
+  },
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [15172, 15205],
+    "event": {
+      "start": ["t", "down"],
+      "end": ["t", "up"]
+    },
+    "keying": false,
+    "power_of_beat":1,
+    "condition":{
+      "coordinates":[0,100],
+      "scale": 2.7,
+      "flip": "h"
+    }
+  },
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [34913, 34936],
+    "event": {
+      "start": ["d", "down"],
+      "end": ["d", "up"]
+    },
+    "keying": false,
+    "power_of_beat":0,
+    "trim": [510,210,310,120],
+    "condition":{
+      "coordinates": [0,100],
+      "scale": 4.09,
+      "border": "wrap"
+    }
+  }
+  ,
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [34913, 34936],
+    "event": {
+      "start": ["f", "down"],
+      "end": ["f", "up"]
+    },
+    "keying": false,
+    "power_of_beat":0,
+    "trim": [510,210,310,120],
+    "condition":{
+      "coordinates": [0,100],
+      "scale": 3.09,
+      "border": "wrap"
+    }
+  }
+  ,
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [34913, 34936],
+    "event": {
+      "start": ["g", "down"],
+      "end": ["g", "up"]
+    },
+    "keying": false,
+    "power_of_beat":0,
+    "trim": [510,210,310,120],
+    "condition":{
+      "coordinates": [300,100],
+      "scale": 2.0,
+      "border": "wrap"
+    }
+  }
+  ,
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [34913, 34936],
+    "event": {
+      "start": ["h", "down"],
+      "end": ["h", "up"]
+    },
+    "keying": false,
+    "power_of_beat":0,
+    "trim": [510,210,310,120],
+    "condition":{
+      "coordinates": [300,100],
+      "scale": 1.0,
+      "border": "wrap"
+    }
+  },
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [8747,8747],
+    "event": {
+      "start": ["a", "down"],
+      "end": ["a", "down"]
+    },
+    "keying": false,
+    "power_of_beat": 1,
+    "trim":[0,0,1280,550],
+    "condition":{
+      "coordinates":[0,0],
+      "scale": 1.5
+    }
+  }
+  ,
+  {
+    "footage": "ONrtyi8e9lI_720p_30fps.mp4",
+    "frame_segment": [92560,92578],
+    "event": {
+      "start": ["s", "down"],
+      "end": ["s", "up"]
+    },
+    "keying": true,
+    "power_of_beat": 1,
+    "trim":[360,0,520,720],
+    "condition":{
+      "coordinates":[-435,-35],
+      "scale": 0.75
+    }
+  }
+]
